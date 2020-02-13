@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lonnies DB Browser", "Lonnies DB Browser\Lonnies DB Browser.csproj", "{575BF6E1-3F96-4348-B768-E6B8C42EFBAF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575BF6E1-3F96-4348-B768-E6B8C42EFBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575BF6E1-3F96-4348-B768-E6B8C42EFBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575BF6E1-3F96-4348-B768-E6B8C42EFBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575BF6E1-3F96-4348-B768-E6B8C42EFBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
